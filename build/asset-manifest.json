@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/adhiksubodh/Tic_Tac_Toe.git/static/css/main.2cb9a270.css",
+    "main.js": "/adhiksubodh/Tic_Tac_Toe.git/static/js/main.18def60d.js",
+    "index.html": "/adhiksubodh/Tic_Tac_Toe.git/index.html",
+    "main.2cb9a270.css.map": "/adhiksubodh/Tic_Tac_Toe.git/static/css/main.2cb9a270.css.map",
+    "main.18def60d.js.map": "/adhiksubodh/Tic_Tac_Toe.git/static/js/main.18def60d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cb9a270.css",
+    "static/js/main.18def60d.js"
+  ]
+}
